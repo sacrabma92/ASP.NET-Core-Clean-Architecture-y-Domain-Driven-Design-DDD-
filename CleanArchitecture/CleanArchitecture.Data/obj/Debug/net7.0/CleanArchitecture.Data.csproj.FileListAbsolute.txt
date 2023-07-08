@@ -1,0 +1,17 @@
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Data.deps.json
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Data.runtimeconfig.json
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Data.dll
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Data.pdb
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.csproj.CopyComplete
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.dll
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\refint\CleanArchitecture.Data.dll
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.pdb
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\CleanArchitecture.Data.genruntimeconfig.cache
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net7.0\ref\CleanArchitecture.Data.dll

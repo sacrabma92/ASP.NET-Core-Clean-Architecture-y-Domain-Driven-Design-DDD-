@@ -1,0 +1,12 @@
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+D:\PROYECTOS\C#\ASP.NET Core Clean Architecture y Domain Driven Design (DDD)\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll
